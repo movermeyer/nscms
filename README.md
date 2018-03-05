@@ -9,6 +9,6 @@ portal CMS.
 
 [![Code Health](https://landscape.io/github/mauler/nscms/master/landscape.png)](https://landscape.io/github/mauler/nscms/master)
 
-[![Latest PyPI version](https://pypip.in/v/nscms/badge.png)](https://crate.io/packages/nscms/)
+[![Latest PyPI version](https://img.shields.io/pypi/v/nscms.svg)](https://crate.io/packages/nscms/)
 
-[![Number of PyPI downloads](https://pypip.in/d/nscms/badge.png)](https://crate.io/packages/nscms/)
+[![Number of PyPI downloads](https://img.shields.io/pypi/dm/nscms.svg)](https://crate.io/packages/nscms/)
